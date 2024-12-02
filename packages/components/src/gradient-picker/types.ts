@@ -57,7 +57,7 @@ type GradientPickerBaseProps = {
 	 */
 	loop?: boolean;
 	/**
-	 * Whether to disable alpha transparency options in the picker.
+	 * Whether to enable alpha transparency options in the picker.
 	 *
 	 * @default true
 	 */
