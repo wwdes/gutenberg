@@ -102,7 +102,7 @@ gradients from `gradients` will be shown.
 
 ### `enableAlpha`
 
-Whether to disable alpha transparency options in the picker.
+Whether to enable alpha transparency options in the picker.
 
  - Type: `boolean`
  - Required: No
